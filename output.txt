@@ -1,0 +1,138 @@
+============================== STEP 1: ADDING NEW MEMORY ==============================
+INPUT CONTENT: "Alan Turing's 1950 paper 'Computing Machinery and Intelligence' introduced the T..."
+🟢 Added new memory note: dc97aae8-7a07-45b8-99cc-b560e3fbd63f
+
+========================= CURRENT MEMORY STATE =========================
+
+📝 NOTE ID: dc97aae8-7a07-45b8-99cc-b560e3fbd63f
+   - Timestamp: 2025-06-25 10:23:55
+   - Content: Alan Turing's 1950 paper 'Computing Machinery and Intelligence' introduced the Turing Test, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+   - Context: Alan Turing's 1950 paper introduced the Turing Test, assessing a machine's ability to mimic human-like intelligence.
+   - Keywords: ['Alan Turing', '1950', 'Computing Machinery and Intelligence', 'Turing Test', 'machine', 'intelligent behavior', 'human']
+   - Tags: ['Artificial Intelligence', 'Philosophy', 'Computer Science', 'History']
+   - Links: []
+   - Retrieval Count: 0
+========================================================================
+
+
+
+============================== STEP 2: ADDING NEW MEMORY ==============================
+INPUT CONTENT: "Arthur Samuel, an American pioneer in the field of computer gaming and artificia..."
+🟢 Added new memory note: 1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb
+
+========================= CURRENT MEMORY STATE =========================
+
+📝 NOTE ID: dc97aae8-7a07-45b8-99cc-b560e3fbd63f
+   - Timestamp: 2025-06-25 10:23:55
+   - Content: Alan Turing's 1950 paper 'Computing Machinery and Intelligence' introduced the Turing Test, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+   - Context: Alan Turing's 1950 paper introduced the Turing Test, assessing a machine's ability to mimic human-like intelligence.
+   - Keywords: ['Alan Turing', '1950', 'Computing Machinery and Intelligence', 'Turing Test', 'machine', 'intelligent behavior', 'human']
+   - Tags: ['Artificial Intelligence', 'Philosophy', 'Computer Science', 'History']
+   - Links: ['1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb']
+   - Retrieval Count: 0
+
+📝 NOTE ID: 1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb
+   - Timestamp: 2025-06-25 10:24:01
+   - Content: Arthur Samuel, an American pioneer in the field of computer gaming and artificial intelligence, coined the term 'Machine Learning' in 1959 while at IBM. He developed a checkers-playing program that could learn from its own mistakes.
+   - Context: Arthur Samuel, a pioneer in computer gaming and AI, introduced the term 'Machine Learning' in 1959 and created a self-learning checkers program.
+   - Keywords: ['Arthur Samuel', 'computer gaming', 'artificial intelligence', 'Machine Learning', '1959', 'IBM', 'checkers-playing program', 'learn', 'mistakes']
+   - Tags: ['Technology', 'Artificial Intelligence', 'Computer Science', 'Gaming']
+   - Links: ['dc97aae8-7a07-45b8-99cc-b560e3fbd63f']
+   - Retrieval Count: 0
+========================================================================
+
+
+
+============================== STEP 3: ADDING NEW MEMORY ==============================
+INPUT CONTENT: "The concept of deep learning, using neural networks with many layers (deep neura..."
+🟢 Added new memory note: 38b89e28-0d37-4b9b-a925-2d4c2e45bdb7
+
+========================= CURRENT MEMORY STATE =========================
+
+📝 NOTE ID: dc97aae8-7a07-45b8-99cc-b560e3fbd63f
+   - Timestamp: 2025-06-25 10:24:01
+   - Content: Arthur Samuel, an American pioneer in the field of computer gaming and artificial intelligence, coined the term 'Machine Learning' in 1959 while at IBM. He developed a checkers-playing program that could learn from its own mistakes.
+   - Context: Arthur Samuel, a pioneer in computer gaming and AI, introduced the term 'Machine Learning' in 1959 and created a self-learning checkers program.
+   - Keywords: ['Arthur Samuel', 'computer gaming', 'artificial intelligence', 'Machine Learning', '1959', 'IBM', 'checkers-playing program', 'learn', 'mistakes']
+   - Tags: ['Technology', 'Artificial Intelligence', 'Computer Science', 'Gaming']
+   - Links: ['dc97aae8-7a07-45b8-99cc-b560e3fbd63f', '38b89e28-0d37-4b9b-a925-2d4c2e45bdb7']
+   - Retrieval Count: 0
+
+📝 NOTE ID: 1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb
+   - Timestamp: 2025-06-25 10:23:55
+   - Content: Alan Turing's 1950 paper 'Computing Machinery and Intelligence' introduced the Turing Test, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+   - Context: Alan Turing's 1950 paper introduced the Turing Test, assessing a machine's ability to mimic human-like intelligence.
+   - Keywords: ['Alan Turing', '1950', 'Computing Machinery and Intelligence', 'Turing Test', 'machine', 'intelligent behavior', 'human']
+   - Tags: ['Artificial Intelligence', 'Philosophy', 'Computer Science', 'History']
+   - Links: ['1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb', '38b89e28-0d37-4b9b-a925-2d4c2e45bdb7']
+   - Retrieval Count: 0
+
+📝 NOTE ID: 38b89e28-0d37-4b9b-a925-2d4c2e45bdb7
+   - Timestamp: 2025-06-25 10:24:07
+   - Content: The concept of deep learning, using neural networks with many layers (deep neural networks), gained massive traction in the 2010s with breakthroughs in computer vision and speech recognition, largely thanks to advancements in GPU hardware.
+   - Context: Deep learning, characterized by deep neural networks, became prominent in the 2010s due to significant advancements in computer vision, speech recognition, and GPU hardware.
+   - Keywords: ['deep learning', 'neural networks', 'deep neural networks', '2010s', 'computer vision', 'speech recognition', 'advancements', 'GPU hardware']
+   - Tags: ['technology', 'artificial intelligence', 'machine learning', 'data science']
+   - Links: ['1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb', 'dc97aae8-7a07-45b8-99cc-b560e3fbd63f']
+   - Retrieval Count: 0
+========================================================================
+
+
+
+============================== STEP 4: ADDING NEW MEMORY ==============================
+INPUT CONTENT: "Generative Adversarial Networks (GANs), introduced by Ian Goodfellow in 2014, co..."
+🟢 Added new memory note: cc8dd40e-bf63-4062-91f4-399b7d0e5bbb
+
+========================= CURRENT MEMORY STATE =========================
+
+📝 NOTE ID: dc97aae8-7a07-45b8-99cc-b560e3fbd63f
+   - Timestamp: 2025-06-25 10:24:07
+   - Content: The concept of deep learning, using neural networks with many layers (deep neural networks), gained massive traction in the 2010s with breakthroughs in computer vision and speech recognition, largely thanks to advancements in GPU hardware.
+   - Context: Deep learning, characterized by deep neural networks, became prominent in the 2010s due to significant advancements in computer vision, speech recognition, and GPU hardware.
+   - Keywords: ['deep learning', 'neural networks', 'deep neural networks', '2010s', 'computer vision', 'speech recognition', 'advancements', 'GPU hardware']
+   - Tags: ['technology', 'artificial intelligence', 'machine learning', 'data science']
+   - Links: ['1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb', 'dc97aae8-7a07-45b8-99cc-b560e3fbd63f', 'cc8dd40e-bf63-4062-91f4-399b7d0e5bbb']
+   - Retrieval Count: 0
+
+📝 NOTE ID: 1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb
+   - Timestamp: 2025-06-25 10:23:55
+   - Content: Alan Turing's 1950 paper 'Computing Machinery and Intelligence' introduced the Turing Test, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+   - Context: Alan Turing's 1950 paper introduced the Turing Test, assessing a machine's ability to mimic human-like intelligence.
+   - Keywords: ['Alan Turing', '1950', 'Computing Machinery and Intelligence', 'Turing Test', 'machine', 'intelligent behavior', 'human']
+   - Tags: ['Artificial Intelligence', 'Philosophy', 'Computer Science', 'History']
+   - Links: ['1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb', '38b89e28-0d37-4b9b-a925-2d4c2e45bdb7', 'cc8dd40e-bf63-4062-91f4-399b7d0e5bbb']
+   - Retrieval Count: 0
+
+📝 NOTE ID: 38b89e28-0d37-4b9b-a925-2d4c2e45bdb7
+   - Timestamp: 2025-06-25 10:24:01
+   - Content: Arthur Samuel, an American pioneer in the field of computer gaming and artificial intelligence, coined the term 'Machine Learning' in 1959 while at IBM. He developed a checkers-playing program that could learn from its own mistakes.
+   - Context: Arthur Samuel, a pioneer in computer gaming and AI, introduced the term 'Machine Learning' in 1959 and created a self-learning checkers program.
+   - Keywords: ['Arthur Samuel', 'computer gaming', 'artificial intelligence', 'Machine Learning', '1959', 'IBM', 'checkers-playing program', 'learn', 'mistakes']
+   - Tags: ['Technology', 'Artificial Intelligence', 'Computer Science', 'Gaming']
+   - Links: ['dc97aae8-7a07-45b8-99cc-b560e3fbd63f', '38b89e28-0d37-4b9b-a925-2d4c2e45bdb7', 'cc8dd40e-bf63-4062-91f4-399b7d0e5bbb']
+   - Retrieval Count: 0
+
+📝 NOTE ID: cc8dd40e-bf63-4062-91f4-399b7d0e5bbb
+   - Timestamp: 2025-06-25 10:24:13
+   - Content: Generative Adversarial Networks (GANs), introduced by Ian Goodfellow in 2014, consist of two dueling neural networks, a generator and a discriminator, which are trained together to produce highly realistic synthetic data, such as images or text.
+   - Context: Generative Adversarial Networks are a pair of competing neural networks designed to create realistic synthetic data.
+   - Keywords: ['Generative Adversarial Networks', 'GANs', 'Ian Goodfellow', 'neural networks', 'generator', 'discriminator', 'synthetic data', 'images', 'text']
+   - Tags: ['Artificial Intelligence', 'Machine Learning', 'Deep Learning', 'Neural Networks']
+   - Links: ['38b89e28-0d37-4b9b-a925-2d4c2e45bdb7', '1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb', 'dc97aae8-7a07-45b8-99cc-b560e3fbd63f']
+   - Retrieval Count: 0
+========================================================================
+
+
+
+============================== FINAL STEP: RETRIEVAL ==============================
+--- Retrieving memories related to 'generative AI models' ---
+
+Retrieved Note ID: cc8dd40e-bf63-4062-91f4-399b7d0e5bbb
+  Content: Generative Adversarial Networks (GANs), introduced by Ian Goodfellow in 2014, consist of two dueling neural networks, a generator and a discriminator, which are trained together to produce highly realistic synthetic data, such as images or text.
+  Context: Generative Adversarial Networks are a pair of competing neural networks designed to create realistic synthetic data.
+  Retrieval Count: 0
+
+Retrieved Note ID: 1ccb8e9a-4b13-416a-a710-2ab3c5d13dfb
+  Content: Alan Turing's 1950 paper 'Computing Machinery and Intelligence' introduced the Turing Test, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+  Context: Alan Turing's 1950 paper introduced the Turing Test, assessing a machine's ability to mimic human-like intelligence.
+  Retrieval Count: 0
